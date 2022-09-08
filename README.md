@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvgBen
+- 👋 Hi, I’m @BenPettit-ctrl
 - 👀 I’m interested in making websites and mobile apps. 
 - 🌱 I’m currently learning web and mobile development. 
 <!---
